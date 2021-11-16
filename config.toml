@@ -1,0 +1,13 @@
+baseURL = "https://tdj-joinery.co.uk"
+languageCode = "en-gb"
+title = "TDJ Joinery"
+theme = "philo-hugo-theme"
+description = "Innovative Church Furniture by Award-winning Craftsman"
+uglyurls = true
+[params]
+include_home_in_menu = true
+call_to_action_text = "Contact"
+# If uglyurls is set to true, link need to be suffixed with .html
+caLl_to_action_link = "/contact.html"
+[markup.goldmark.renderer]
+unsafe= true
