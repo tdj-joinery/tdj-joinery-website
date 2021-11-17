@@ -5,7 +5,7 @@ hero_image: "/img/philip-swinburn-vS7LVkPyXJU-unsplash-min.jpg"
 HeroImageText: "Hand-made and individually designed church furniture"
 Header: "TDJ Joinery"
 ---
-Working in the wonderful setting of Prinknash Abbey surrounded by the peace and splendour of the Cotswolds inspires the products produced by TDJ Joinery.
+Working in the wonderful setting of Prinknash Abbey, surrounded by the peace and splendour of the Cotswolds, inspires the products produced by TDJ Joinery.
 
 We design and make church furniture that is unique, spiritual, functional and robust.
 
