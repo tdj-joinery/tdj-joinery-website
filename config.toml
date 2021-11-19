@@ -2,7 +2,7 @@ baseURL = "https://tdj-joinery.co.uk"
 languageCode = "en-gb"
 title = "TDJ Joinery"
 theme = "philo-hugo-theme"
-description = "Innovative Church Furniture by Award-winning Craftsman"
+Description = "Innovative Church Furniture by Award-winning Craftsman"
 uglyurls = true
 [params]
 include_home_in_menu = true
