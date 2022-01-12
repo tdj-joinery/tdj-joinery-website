@@ -6,6 +6,7 @@ Description = "Innovative Church Furniture by Award-winning Craftsman"
 uglyurls = true
 [params]
 SiteImage = "/img/cope-chest.jpg"
+RecaptchaKey = "6Lf0LAweAAAAABXoheM4oeHB-KnL00iyugqfVK8I"
 include_home_in_menu = true
 call_to_action_text = "Contact"
 # If uglyurls is set to true, link need to be suffixed with .html
